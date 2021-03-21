@@ -22,4 +22,4 @@ procedure:
 8.tap the pan a few times on the table so that there  are no bubbles in the batter 
 9.and now place the cake pan in the oven for 40 min
 10.after the cake is finished take a knife or a tooth pic and place it inside the cake when you remove the knife or the tooth pic the cake should not stick to the knife or the toothpic if the cake sticks on it, it means that the cake needs to be baked for some more time 
-11.now your cake is ready and we can enjoy the tasty chocolate cake
+11.now your cake is ready and we can enjoy the tasty chocolate cake.
